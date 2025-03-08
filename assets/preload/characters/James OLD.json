@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "james idle"
+		},
+		{
+			"offsets": [
+				-20,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "james left"
+		},
+		{
+			"offsets": [
+				-70,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "james down"
+		},
+		{
+			"offsets": [
+				-60,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "james up"
+		},
+		{
+			"offsets": [
+				-80,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "james right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/James OLD",
+	"position": [
+		-100,
+		200
+	],
+	"healthicon": "james old",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		92,
+		22
+	],
+	"camera_position": [
+		100,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
